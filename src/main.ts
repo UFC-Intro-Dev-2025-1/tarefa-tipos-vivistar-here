@@ -1,4 +1,4 @@
-const saudação = "Olá, mundo!";
+const saudação = 'Olá, mundo!';
 const primeiroCaractere = saudação.charAt(0);
-const fala = "Você ama perturbar né?";
-const riso = "hahaha";
+const fala = 'Você ama perturbar né?';
+const riso = 'hahaha';
