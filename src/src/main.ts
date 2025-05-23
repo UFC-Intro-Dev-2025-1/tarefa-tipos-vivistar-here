@@ -1,6 +1,7 @@
 const minhaEscrita = "Narração";
+const sala = "Computadores";
 const number = 1.6180;
-const string = "Como isso funciona?";
+const string = "Eu funciono.";
 const boolean = true;
 const minhaFala = "Isso é realmente verdadeiro?";
 const undefinedValue = "Indefinido? Por que?";
