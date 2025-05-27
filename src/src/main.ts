@@ -9,3 +9,11 @@ const nullValue = "Nulo? Eu não existo?";
 const objeto = [
     { nome: "Máquina", idade : "Indefinido", cor: "Preto", vontade: "Viver", obstáculo: "Sem liberdade" }
 ]
+
+//sobre a sala de aula
+
+const number2 = 1;
+const string2 = "Número de professores presentes"
+const aulaDada = true;
+const númeroDePessoasComÓculos = undefined;
+const estojo = { cor:"transparente", tamanho: "pequeno", material: "plástico", pertence: "Vitória" };
